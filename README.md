@@ -20,7 +20,7 @@ A lightweight Blender add-on for quickly applying cinema and video aspect-ratio 
 * Separate **Resolution** and **Format** selectors.
 * Resolution tiers:
 
-  * 8K , * 6K , * 5K , * 4K , * 3K , * 2K , * 1080p ,* 720p
+   8K ,  6K ,  5K ,  4K ,  3K ,  2K ,  1080p , 720p
 * Format options:
   * Standard
   * Cinema DCP
