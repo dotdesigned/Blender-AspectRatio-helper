@@ -46,11 +46,11 @@ A lightweight Blender add-on for quickly applying cinema and video aspect-ratio 
 
 ### Blender Add-on Installation
 
-1. Download `Aspect_Ratio_Helper_v1.1.5.zip`.
+1. Download **[⬇ Download Aspect Ratio Helper v1.1.5](./Aspect_Ratio_Helper_v1.1.5.zip)**
 2. Open Blender.
 3. Go to **Edit → Preferences → Add-ons**.
 4. Click **Install from Disk**.
-5. Select `Aspect_Ratio_Helper_v1.1.5.zip`.
+5. Select **[⬇ Download Aspect Ratio Helper v1.1.5](./Aspect_Ratio_Helper_v1.1.5.zip)**
 6. Enable **Aspect Ratio Helper**.
 
 The add-on will appear in:
